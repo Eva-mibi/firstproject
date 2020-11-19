@@ -3,10 +3,10 @@ This is my first project on Software Carpentry with Git hub.
 It will contain some software for performing my data analysis.
 
 ## Usage
-Description
+Description.
 
 ### First tool
-description of first tool
+Description of first tool.
 
 ### Second tool
 description of second tool
