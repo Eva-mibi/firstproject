@@ -1,6 +1,6 @@
 # firstproject
 This is my first project on Software Carpentry with Git hub.
-It will contain some useful software for performing my data analysis.
+It will contain some interesting software for performing my data analysis.
 
 ## Usage
 Description.
